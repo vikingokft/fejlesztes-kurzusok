@@ -1,0 +1,1 @@
+favorite_team = ['Bill Cartwright', 'Horace Grant', 'Michael Jordan', 'John Paxson', 'Scottie Pippen', 'B.J. Armstrong', 'Craig Hodges', 'Stacey King', 'Cliff Levingston', 'Will Perdue', 'Scott Williams', 'Dennis Hopson']

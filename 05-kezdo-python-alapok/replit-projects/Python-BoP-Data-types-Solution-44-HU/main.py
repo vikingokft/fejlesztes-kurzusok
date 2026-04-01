@@ -1,0 +1,1 @@
+print('Szép cica, jó cica,\nSelymes a bundád.\nKedves cica, álmos cica,\nBújj hozzám, hadd simogatlak.')

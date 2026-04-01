@@ -1,0 +1,18 @@
+guest1 = 'Béla, Kovács, +36101234567, 1017, budapest, Fő utca 10., bela.kovacs@@pelda.hu'
+guest2 = 'Arnold, szabó, 06109876543, 6500, Baja, Folyó u. 24., arnold.szabo@example.com'
+
+guest1_first_name = 'Béla'
+guest1_last_name = 'Kovács'
+guest1_mobile_phone = '+36101234567'
+guest1_postal_code = '1017'
+guest1_city = 'budapest'
+guest1_address = 'Fő utca 10.'
+guest1_email = 'bela.kovacs@@pelda.hu'
+
+guest2_first_name = 'Arnold'
+guest2_last_name = 'szabó'
+guest2_mobile_phone = '06109876543'
+guest2_postal_code = '6500'
+guest2_city = 'Baja'
+guest2_address = 'Folyó u. 24.'
+guest2_email = 'arnold.szabo@example.com'

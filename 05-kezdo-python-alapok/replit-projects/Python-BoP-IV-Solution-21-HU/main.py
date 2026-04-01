@@ -1,0 +1,7 @@
+print('A(z) ' + str(1) + '. törpe a bányában.')
+print('A(z) ' + str(2) + '. törpe a bányában.')
+print('A(z) ' + str(3) + '. törpe a bányában.')
+print('A(z) ' + str(4) + '. törpe a bányában.')
+print('A(z) ' + str(5) + '. törpe a bányában.')
+print('A(z) ' + str(6) + '. törpe a bányában.')
+print('A(z) ' + str(7) + '. törpe a bányában.')

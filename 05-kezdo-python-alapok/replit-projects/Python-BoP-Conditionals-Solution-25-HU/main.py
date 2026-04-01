@@ -1,0 +1,1 @@
+favorite_number = int(input('Mi a kedvenc számod? '))

@@ -1,0 +1,8 @@
+numbers = [1, 2, 3, 4, 5]
+
+index = int(input('Hányadik számot választod a listából? '))
+
+try:
+  chosen_number = numbers[index]
+except IndexError:
+  print('Sajnos a megadott index nem létezik a listában.')
