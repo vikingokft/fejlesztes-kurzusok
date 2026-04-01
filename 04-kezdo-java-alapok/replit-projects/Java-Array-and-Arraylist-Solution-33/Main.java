@@ -1,0 +1,1 @@
+shoppingListWithObjects[2].printShoppingItem(); // name: kenyér, mennyiség: 1

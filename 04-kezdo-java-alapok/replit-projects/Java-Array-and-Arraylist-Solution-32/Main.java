@@ -1,0 +1,1 @@
+ShopItem[] shoppingListWithObjects = {new ShopItem("alma", 2), new ShopItem("tej", 5), new ShopItem("kenyér", 1), new ShopItem("keksz", 16)};

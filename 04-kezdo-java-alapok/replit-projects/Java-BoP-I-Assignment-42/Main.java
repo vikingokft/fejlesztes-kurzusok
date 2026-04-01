@@ -1,0 +1,1 @@
+"A Starkok mindig azt mondják, \"Közeleg a tél.\" – most igazuk is lett."

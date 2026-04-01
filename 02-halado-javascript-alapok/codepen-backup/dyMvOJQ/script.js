@@ -1,0 +1,2 @@
+introduce.call(person); // kiírja, hogy "Hi, I'm Berry, and I spend my free time practicing topiary"
+introduce.apply(person); // kiírja, hogy "Hi, I'm Berry, and I spend my free time practicing topiary"

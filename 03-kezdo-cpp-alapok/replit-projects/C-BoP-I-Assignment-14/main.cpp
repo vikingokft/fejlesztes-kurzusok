@@ -1,0 +1,1 @@
+std::cout << "Mindig ide jön a szöveg, idézőjelek közé." << std::endl;

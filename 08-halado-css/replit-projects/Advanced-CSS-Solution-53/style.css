@@ -1,0 +1,49 @@
+body {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+.pricing-table {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-column-gap: 20px;
+}
+
+.pricing-box {
+  border-radius: 10px;
+  background-color: lightgray;
+}
+
+.package-name {
+  margin: 20px 0;
+}
+
+.price {
+  padding: 20px 10px;
+  background-color: red;
+  color: #ffffff;
+}
+
+.description {
+  margin-top: 20px;
+  padding: 0 40px;
+}
+
+.button {
+  display: inline-block;
+  padding: 7px 40px;
+  border: 1px solid #ffffff;
+  border-radius: 30px;
+  margin-top: 20px;
+  background-color: darkblue;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.features {
+  padding: 15px 60px;
+  text-align: left;
+}

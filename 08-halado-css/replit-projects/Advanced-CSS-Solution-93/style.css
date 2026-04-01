@@ -1,0 +1,22 @@
+.media-object {
+  max-width: 600px;
+  border: 2px solid black;
+  padding: 1rem;
+  margin: 0 0 1rem 0;
+  display: flex;
+  align-items: flex-start; 
+}
+
+.media-image {
+  margin-right: 1rem;
+}
+
+.image-right {
+  order: 1;
+}
+
+.media-text {
+  font-size: 15px;
+  font-family: 'Noto Sans', sans-serif;
+  flex: 1;
+}

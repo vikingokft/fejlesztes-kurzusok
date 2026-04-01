@@ -1,0 +1,1 @@
+20.3 kg kivi került kidobásra.

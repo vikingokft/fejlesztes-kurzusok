@@ -1,0 +1,1 @@
+['Stark', 'Arryn', 'Baratheon', 'Tully', 'Greyjoy', 'Lannister', 'Tyrell', 'Martell', 'Targaryen']

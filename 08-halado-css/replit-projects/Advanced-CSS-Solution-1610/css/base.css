@@ -1,0 +1,104 @@
+/**
+ * OVERVIEW
+ *
+ * This project is separated to the following style sheets:
+ *
+ * normalize.min.css....CSS reset.
+ * base.css.............Global rules and helpers.
+ * layout.css...........CSS rules that control the layout of the page.
+ * components.css.......Own CSS for the components that build up the page.
+ */
+
+
+/**
+ * CONTENTS
+ *
+ * SETTINGS
+ * Variables............Globally-available variables.
+ * Box-sizing...........Better default `box-sizing`.
+ * Margins..............Top and bottom margins global values.
+ *
+ * BASE STYLES
+ * Headings.............H1-H2 styles.
+ * Base font............Base font style.
+ *
+ */
+
+
+
+
+
+/*------------------------------------*\
+  #VARIABLES
+\*------------------------------------*/
+
+:root {
+  --bg-primary:           #dfe075;
+  --bg-secondary:         #e3e3e3;
+  --bg-alert:             #e34f3d;
+  --primary-font-color:   #302d2a;
+  --secondary-font-color: #f7f7f7;
+  --btn-main-color:       #cc8350;
+  --btn-secondary-color:  #7a3d12;
+}
+
+
+
+
+
+/*------------------------------------*\
+  #BOX-SIZING
+\*------------------------------------*/
+
+* {
+  box-sizing: border-box;
+}
+
+
+
+
+
+/*------------------------------------*\
+  #MARGINS
+\*------------------------------------*/
+
+header, footer {
+  padding:       5px;
+  margin-top:    .5em;
+  margin-bottom: .5em;
+}
+
+
+nav, aside {
+  padding:       3px;
+  margin-top:    .5em;
+  margin-bottom: .5em;
+}
+
+
+
+
+
+/*------------------------------------*\
+  #HEADINGS
+\*------------------------------------*/
+
+h1     { font-size: clamp(18px, 5vw, 50px); }
+
+h2     { font-size: clamp(15px, 4vw, 30px); }
+
+h1, h2 { margin:    min(7vh, 2.75rem) 0 1.05rem; }
+
+
+
+
+
+/*------------------------------------*\
+  #BASE FONT
+\*------------------------------------*/
+
+html {
+  font-size:   min(3.2vw, 14px);
+  font-family: "Lucida Console", Monaco, monospace;
+  color:       var(--primary-font-color);
+}

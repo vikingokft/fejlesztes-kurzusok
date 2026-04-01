@@ -1,0 +1,7 @@
+/**
+ * These rules extend `.card {}` in base.css.
+ */
+
+.card--red   { color: red; }
+
+.card--black { color: black; }

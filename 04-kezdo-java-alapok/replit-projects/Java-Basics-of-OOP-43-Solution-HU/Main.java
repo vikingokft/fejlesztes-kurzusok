@@ -1,0 +1,1 @@
+A bögrébe a következő folyadék került: kávé.

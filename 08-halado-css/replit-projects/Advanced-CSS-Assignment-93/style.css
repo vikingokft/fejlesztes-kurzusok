@@ -1,0 +1,15 @@
+.media-object {
+  max-width: 600px;
+  border: 2px solid black;
+  padding: 1rem;
+  margin: 0 0 1rem 0;
+}
+
+.media-image {
+  margin-right: 1rem;
+}
+
+.media-text {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 15px;
+}

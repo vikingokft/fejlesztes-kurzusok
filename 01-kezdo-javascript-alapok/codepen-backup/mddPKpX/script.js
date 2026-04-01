@@ -1,0 +1,1 @@
+shoppingList.push('rizs', 'tészta', 'bab');

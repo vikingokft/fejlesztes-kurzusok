@@ -1,0 +1,1 @@
+3 kg-mal nőtt a gránátalma mennyisége az árukészletben.

@@ -1,0 +1,1 @@
+drawTriangle(225, 33);

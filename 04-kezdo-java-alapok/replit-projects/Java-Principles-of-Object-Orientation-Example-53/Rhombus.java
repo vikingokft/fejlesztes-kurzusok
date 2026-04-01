@@ -1,0 +1,1 @@
+Shape rhombus = new Rhombus(19, 24, 34);

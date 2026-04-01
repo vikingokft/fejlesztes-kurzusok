@@ -1,0 +1,15 @@
+.title {
+  font-size: 4em;
+  font-weight: bold;
+  color: white;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+.container {
+  background: url('assets/background-sw.jpg') no-repeat center;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

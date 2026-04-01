@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+input, label {
+  font-family: "Lucida Console", Courier, monospace;
+  font-size: 16px;
+}
+
+input {
+  width: 200px;
+  height: 30px;
+  margin: 25px;
+  border-bottom: 1px solid grey;
+}
+
+label {
+  display: inline-block;
+  position: relative;
+  left: -230px;
+  cursor: text;
+  transform-origin: left bottom;
+  transition-duration: .5s;
+}
+
+input:focus {
+  outline: 0;
+}
+
+input:focus + label, input:valid + label {
+  transform: translate(0, -25px) scale(0.8);
+}

@@ -1,0 +1,1 @@
+The garage is located at P. Sherman, 42, Wallaby Way, Sydney. It has 10 space(s) and currently has 2 vehicle(s) in it.

@@ -1,0 +1,21 @@
+/*------------------------------------*\
+  #CARDS
+\*------------------------------------*/
+
+.card {
+  display:          inline-block;
+  vertical-align:   top;
+  margin:           10px;
+  border-radius:    10%;
+  width:            60px;
+  height:           90px;
+  font-size:        30px;
+  text-align:       center;
+  background-color: khaki;  
+  transition:       all 1s ease-out .1s;
+}
+
+.card:hover {
+  transform:  scale(1.1);
+  box-shadow: 5px 10px 5px 0 grey;
+}

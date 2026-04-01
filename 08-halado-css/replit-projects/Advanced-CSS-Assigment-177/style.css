@@ -1,0 +1,10 @@
+body {
+  font-family:       'Noto Sans', sans-serif;
+  margin:             0;
+}
+
+.navbar {
+  background-color: lightgrey;
+  overflow:           hidden;
+  text-align:         center;
+}

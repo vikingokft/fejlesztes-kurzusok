@@ -1,0 +1,1 @@
+System.out.println(shoppingList[2]); // A konzolra kinyomtatja a zsemle stringet

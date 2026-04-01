@@ -1,0 +1,1 @@
+String[] shoppingList = {"alma", "tej", "kenyér", "keksz"};

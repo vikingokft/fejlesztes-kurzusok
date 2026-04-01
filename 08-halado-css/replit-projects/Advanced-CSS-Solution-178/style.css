@@ -1,0 +1,62 @@
+body {
+  margin:                0;
+  font-family:          'Noto Sans', sans-serif;
+  background-color:    black;
+  color:               yellow;
+}
+
+
+  .navbar {
+    overflow:            hidden;
+    background-color:  lightgrey;
+    text-align:          center;
+  }
+
+    .navbar__btn {
+    float:               left;
+    padding:             28px 32px;
+    font-size:           17px;
+    }
+
+    .navbar__btn--menu {
+      background-color: orange;
+      color:            #f2f2f2;
+    }
+
+    .navbar__btn--info {
+      background-color: #f2f2f2;
+      color:            blue;
+    }
+
+    .navbar__btn--logout {
+      color:            black;
+      background-color: red;
+      float:              right;
+      font-weight:        bold;
+    }
+
+
+  .main-title {
+    display:              block;
+    margin:               0.67em 0 0.67em 0;
+    font-weight:          bold;
+    font-family:          "Raleway", sans-serif;
+    font-size:            50px;
+    text-align:           center;
+  }
+
+
+  .text {
+    margin:               4rem auto;
+    width:                90%;
+  }
+
+    .text--small {
+      font-size:          8px;
+      text-transform:     uppercase;
+    }
+
+    .text--highlighted {
+      font-size:          1.7rem;
+      letter-spacing:     2px;
+    }

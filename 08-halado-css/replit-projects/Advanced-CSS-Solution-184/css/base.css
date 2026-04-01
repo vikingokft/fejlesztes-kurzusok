@@ -1,0 +1,49 @@
+/*------------------------------------*\
+  #CARDS
+\*------------------------------------*/
+
+/**
+ * The cards on the page can have two different states:
+ *
+ * A) A regular card with the base size and no shadow.
+ * B) A hovered card with an increased size and a shadow.
+ *
+ */
+
+/**
+ * Extend `.card {}` in components.css.
+ */
+
+/**
+ * 1) These properties ensure that the cards are next to each other.
+ * 2) When a card is hovered over, a transition is applied:
+ *   - to the change of every property of the specific card;
+ *   - taking 1 second;
+ *   - starting quickly and ending slowly;
+ *   - being delayed by 0.1 second.
+ * 3) When a card is hovered over, its size increases by one tenth.
+ * 4) When a card is hovered over, it gets a shadow with:
+ *   - a horizontal offset of 5 pixels;
+ *   - a vertical offset of 10 pixels;
+ *   - a blur of 5 pixels;
+ *   - no spread;
+ *   - grey color.
+ */
+
+.card {
+  display:          inline-block; /* [1] */
+  vertical-align:   top; /* [1] */
+  margin:           10px;
+  border-radius:    10%;
+  width:            60px;
+  height:           90px;
+  font-size:        30px;
+  text-align:       center;
+  background-color: khaki;  
+  transition:       all 1s ease-out .1s; /* [2] */
+}
+
+.card:hover {
+  transform:  scale(1.1); /* [3] */
+  box-shadow: 5px 10px 5px 0 grey; /* [4] */
+}

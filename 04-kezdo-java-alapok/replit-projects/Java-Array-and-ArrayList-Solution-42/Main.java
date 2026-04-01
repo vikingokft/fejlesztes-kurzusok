@@ -1,0 +1,1 @@
+import java.package.*; // a csillag jelöli a csomag összes osztályát

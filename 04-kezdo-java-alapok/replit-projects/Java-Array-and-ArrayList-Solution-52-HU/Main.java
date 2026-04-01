@@ -1,0 +1,1 @@
+alma 12.2kg 600Ft/kg

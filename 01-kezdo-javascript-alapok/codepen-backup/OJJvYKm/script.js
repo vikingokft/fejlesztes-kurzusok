@@ -1,0 +1,1 @@
+drawCheckeredPattern(8,8);

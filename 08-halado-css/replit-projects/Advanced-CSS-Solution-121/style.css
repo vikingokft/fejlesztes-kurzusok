@@ -1,0 +1,30 @@
+div {
+  display: inline-block;
+  margin: 20px 5px 20px 5px;
+  padding: 5px;
+  width: 135px;
+  height: 400px;
+  vertical-align: top;
+  text-align: center;
+  font-family: "Lucida Console", Courier, monospace;
+  cursor: default;
+  background-color: khaki;
+  transition: all .5s ease-out .1s;
+}
+
+img {
+  height: 200px;
+}
+
+h1, p {
+  font-size: 12px;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+div:hover {
+  box-shadow: 3px 6px 3px 0 grey;
+  transform: scale(1.1);
+}
