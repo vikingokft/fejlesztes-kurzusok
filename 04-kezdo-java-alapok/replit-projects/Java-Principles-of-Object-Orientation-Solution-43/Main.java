@@ -1,7 +1,12 @@
-maximum speed: 360
-horsepower: 1000
-torque: 16000
+public class Main {
 
-maximum speed: 350
-horsepower: 950
-torque: 15500
+    public static void main(String[] args) {
+        RaceCar ferrari = new RaceCar(360, 1000, 16000, new Driver("Schumacher", 52), "Ferrari");
+        RaceCar honda = new RaceCar(350, 950, 15500, new Driver("Verstappen", 27), "Red Bull");
+
+        ferrari.printVehicle();
+        System.out.println();
+        honda.printVehicle();
+    }
+
+}

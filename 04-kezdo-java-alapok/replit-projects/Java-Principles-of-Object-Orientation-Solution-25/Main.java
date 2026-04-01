@@ -1,3 +1,10 @@
-maximum speed: 30
-horsepower: 25
-torque: 67
+public class Main {
+
+    public static void main(String[] args) {
+        Vehicle car = new Vehicle(30, 25, 67);
+        System.out.println("maximum speed: " + car.getMaximumSpeed());
+        System.out.println("horsepower: " + car.getHorsepower());
+        System.out.println("torque: " + car.getTorque());
+    }
+
+}

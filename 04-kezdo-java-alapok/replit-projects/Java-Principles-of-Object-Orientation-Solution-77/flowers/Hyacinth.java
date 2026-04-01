@@ -1,0 +1,26 @@
+package flowers;
+
+public class Hyacinth extends Flower {
+
+    private static final double WATER_ABSORPTION_RATE = 0.333;
+    private static final double WATER_NEED = 0.2;
+    private static final int PRICE = 999;
+
+    public Hyacinth(double waterLevel) {
+        super(waterLevel);
+    }
+
+    @Override
+    public void decreaseWaterLevel() {
+        this.setWaterLevel(this.getWaterLevel() * WATER_ABSORPTION_RATE);
+    }
+
+    public static double getWaterNeed() {
+        return WATER_NEED;
+    }
+
+    public static int getPrice() {
+        return PRICE;
+    }
+
+}

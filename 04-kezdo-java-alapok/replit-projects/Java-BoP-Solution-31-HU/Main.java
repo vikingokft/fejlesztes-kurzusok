@@ -1,3 +1,13 @@
-for (int dwarfCounter = 1; dwarfCounter <= 7; dwarfCounter++) {
- System.out.println("A(z) " + dwarfCounter + ". törpe a bányában.");
+class Main {
+
+public static void main(String[] args) {
+
+for (int seconds = 10; seconds >= 0; seconds--) {
+
+System.out.println(seconds + " seconds to launch.");
+
+}
+
+}
+
 }

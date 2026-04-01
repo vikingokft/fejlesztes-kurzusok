@@ -1,3 +1,11 @@
-YOU WON!
-TOTAL POTIONS FOUND: 3
-TOTAL MONSTERS KILLED: 3
+import java.util.Random;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Random random = new Random();
+        int randomNumber = random.nextInt(8) + 1;
+        System.out.println(randomNumber);
+    }
+
+}

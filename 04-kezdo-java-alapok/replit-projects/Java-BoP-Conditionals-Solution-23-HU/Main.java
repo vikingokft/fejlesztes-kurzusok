@@ -1,10 +1,25 @@
-int number1 = 4;
-int number2 = 15;
+class Main {
 
-if (number1 < number2) {
- System.out.println(number1 + " kisebb, mint " + number2);
-} else if (number1 == number2) {
- System.out.println(number1 + " és " + number2 + " egyenlők.");
+public static void main(String[] args) {
+
+int age = 18;
+
+if (age < 18) {
+
+System.out.println("Sorry, but you have to be at least 18 years old to
+access this article.");
+
+} else if (age == 18) {
+
+System.out.println("18? Congrats, welcome to adulthood! Enjoy your
+reading.");
+
 } else {
- System.out.println(number1 + " nagyobb, mint " + number2);
+
+System.out.println("Thank you! You can access this article.");
+
+}
+
+}
+
 }

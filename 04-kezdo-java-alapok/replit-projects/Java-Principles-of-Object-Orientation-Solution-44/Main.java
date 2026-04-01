@@ -1,13 +1,12 @@
-Formula 1 car details
-sponsor: Ferrari
-maximum speed: 360
-horsepower: 1000
-torque: 16000
-Driver's name: Schumacher, age: 52
+public class Main {
 
-Formula 1 car details
-sponsor: Red Bull
-maximum speed: 350
-horsepower: 950
-torque: 15500
-Driver's name: Verstappen, age: 27
+    public static void main(String[] args) {
+        RaceCar ferrari = new RaceCar(360, 1000, 16000, new Driver("Schumacher", 52), "Ferrari");
+        RaceCar honda = new RaceCar(350, 950, 15500, new Driver("Verstappen", 27), "Red Bull");
+
+        ferrari.printRaceCar();
+        System.out.println();
+        honda.printRaceCar();
+    }
+
+}

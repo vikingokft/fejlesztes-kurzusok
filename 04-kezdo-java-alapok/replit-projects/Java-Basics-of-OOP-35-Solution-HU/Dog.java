@@ -1,9 +1,13 @@
-public class Mug {
- int volume;
- String color;
- boolean hasHandle;
+public class Dog {
 
- void refill(String liquid) {
- System.out.println("A bögrébe a következő folyadék került: " + liquid + ".");
- }
+String colorOfFur;
+
+double weight;
+
+public void eat(String food) {
+
+System.out.println("Kaptam " + food + "-ot a gazdámtól, vaúúúú!");
+
+}
+
 }

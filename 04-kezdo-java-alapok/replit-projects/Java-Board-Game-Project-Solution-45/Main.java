@@ -1,1 +1,20 @@
-Level 1 [M][M][P][P][H][P][M][P][P][B]
+import board.Board;
+import board.FieldType;
+import character.Hero;
+import character.Position;
+
+public class Main {
+
+    private static final char[][] BOARD = {
+        { 'M', 'M', 'P', 'P', 'M', 'P', 'M', 'P', 'P', 'B' },
+        { 'P', 'M', 'P', 'M', 'M', 'P', 'P', 'M', 'P', 'B' },
+        { 'M', 'P', 'P', 'M', 'M', 'M', 'P', 'P', 'P', 'B' }
+    };
+    private static final boolean IS_FIELD_TYPE_VISIBLE = true;
+
+    public static void main(String[] args) {
+        Board board = new Board(BOARD);
+        board.printBoard(IS_FIELD_TYPE_VISIBLE);
+    }
+
+}

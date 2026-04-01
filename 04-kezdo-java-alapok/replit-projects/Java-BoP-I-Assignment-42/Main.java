@@ -1,1 +1,7 @@
-"A Starkok mindig azt mondják, \"Közeleg a tél.\" – most igazuk is lett."
+class Main {
+
+  public static void main(String[] args) {
+    System.out.println("Write your code here");
+  }
+
+}

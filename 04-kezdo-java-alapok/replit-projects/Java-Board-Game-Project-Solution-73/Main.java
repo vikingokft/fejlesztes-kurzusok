@@ -1,3 +1,12 @@
-YOU WON!
-TOTAL POTIONS FOUND: 3
-TOTAL MONSTERS KILLED: 3
+public class Main {
+
+    private static final char[][] BOARD = {
+        { 'M', 'M', 'P', 'P', 'M', 'P', 'M', 'P', 'P', 'B' }
+    };
+    private static final boolean IS_FIELD_TYPE_VISIBLE = false;
+
+    public static void main(String[] args) {
+        new GameSetup(BOARD, IS_FIELD_TYPE_VISIBLE).start();
+    }
+
+}

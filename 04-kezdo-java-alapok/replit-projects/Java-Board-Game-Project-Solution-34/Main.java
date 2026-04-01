@@ -1,10 +1,12 @@
-H rolled a(n) 8
-H attack: 3.0
-M = { a: 5.0, h: 7.0, p: [0, 2] }
-M rolled a(n) 3
-M attack: 3.0
-H = { a: 10.0, h: 97.0, p: [0, 2] }
-H rolled a(n) 4
-H attack: 10.0
-M = { a: 5.0, h: 0, p: [0, 2] }
------M DEAD-----
+public class Main {
+
+    public static void main(String[] args) {
+        Hero myHero = new Hero(0, 2);
+        Monster monster = new Monster(Monster.BASE_MONSTER_HEALTH, Monster.BASE_MONSTER_ATTACK, new Position(0, 2), 'M');
+
+        myHero.fight(monster);
+        monster.fight(myHero);
+        myHero.fight(monster);
+    }
+
+}

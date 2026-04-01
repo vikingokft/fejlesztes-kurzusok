@@ -1,27 +1,16 @@
 class Main {
 
-public static void main(String[] args) {
+  public static void main(String[] args) {
+    String answer = "This is an answer.";
+    System.out.println(12 + 2);
+    someFunction();
+    System.out.println(42);
+    someFunction();
+    System.out.println(14 * 42);
+  }
 
-int someVariable = 123;
-
-int someExpression = 2 + 2;
-
-someFunction();
-
-System.out.println("This is a string");
-
-someFunction();
-
-}
-
-public static void someFunction() {
-
-System.out.println("First statement");
-
-System.out.println("Second statement");
-
-System.out.println("Third Statement");
-
-}
+  public static void someFunction() {
+    System.out.println("and");
+  }
 
 }

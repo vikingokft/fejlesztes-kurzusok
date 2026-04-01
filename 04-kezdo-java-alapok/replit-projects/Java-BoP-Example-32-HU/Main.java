@@ -2,9 +2,15 @@ class Main {
 
 public static void main(String[] args) {
 
-for (int seconds = 10; seconds >= 0; seconds--) {
+int workingDwarves = 4;
 
-System.out.println(seconds + " seconds to launch.");
+int dwarfCounter = 1;
+
+while (dwarfCounter <= workingDwarves){
+
+System.out.println("Dwarf " + dwarfCounter + ". is in the mines.");
+
+dwarfCounter++;
 
 }
 
