@@ -1,0 +1,68 @@
+lecke_id;lecke_nev;tipus;eredeti_url;uj_url;codepen_cim
+1003;Miért aggódnék a hatókörökön?;feladat;https://codepen.io/borzos6-bl/pen/KKVZYeY?editors=0012;https://codepen.io/vikingokft/pen/emdKzRM?editors=0012;Advanced JS - Why Should I Worry About Scope?
+1007;Mire jó a blokk hatókör?;demo;https://codepen.io/borzos6-bl/pen/KKVZYeY?editors=0012;https://codepen.io/vikingokft/pen/emdKzRM?editors=0012;Advanced JS - Why Should I Worry About Scope?
+1013;Mindent a letről;feladat;https://codepen.io/borzos6-bl/pen/qBbxmjP?editors=0012;https://codepen.io/vikingokft/pen/JoRZKyw?editors=0012;Advanced JS - Moving To Let - Refactoring
+1013;Mindent a letről;megoldas;https://codepen.io/borzos6-bl/pen/vYLdmJa?editors=0012;https://codepen.io/vikingokft/pen/qEaKNXg?editors=0012;Advanced JS - Moving To Let - Solution
+1014;Mindent a constról;feladat;https://codepen.io/borzos6-bl/pen/BajYRwE?editors=0012;https://codepen.io/vikingokft/pen/LERrZja?editors=0012;Advanced JS - Const For Constants - Refactoring
+1014;Mindent a constról;megoldas;https://codepen.io/borzos6-bl/pen/bGELWoP?editors=0012;https://codepen.io/vikingokft/pen/dPpKXzE?editors=0012;Advanced JS - Const For Constants - Solution
+1018;Felemelkedő problémák;feladat;https://codepen.io/pen/?editors=0012;;
+1022;Refaktoráld a változóidat;feladat;https://codepen.io/borzos6-bl/pen/dyGQzmJ?editors=0012;https://codepen.io/vikingokft/pen/YPGvWxm?editors=0012;Advanced JS - Hoisting - Refactor Your Variables
+1022;Refaktoráld a változóidat;megoldas;https://codepen.io/borzos6-bl/pen/zYrMdbw?editors=0012;https://codepen.io/vikingokft/pen/vEXrKeB?editors=0012;Advanced JS - Hoisting - Refactor Your Variables - Solution
+1023;Hoisting lettel és consttal;feladat;https://codepen.io/borzos6-bl/pen/oNbVjMO?editors=0012;https://codepen.io/vikingokft/pen/RNGJRLw?editors=0012;Advanced JS - Hoisting - with let
+1026;Refaktoráld a függvényeidet;feladat;https://codepen.io/borzos6-bl/pen/VweVMKV?editors=0012;https://codepen.io/vikingokft/pen/GgjGqMJ?editors=0012;Advanced JS - Hoisting - Refactor Your Functions
+1026;Refaktoráld a függvényeidet;megoldas;https://codepen.io/borzos6-bl/pen/zYrMdbw?editors=0012;https://codepen.io/vikingokft/pen/vEXrKeB?editors=0012;Advanced JS - Hoisting - Refactor Your Variables - Solution
+1030;Hívd meg azonnal;feladat;https://codepen.io/borzos6-bl/pen/wvMZMwz?editors=0012;https://codepen.io/vikingokft/pen/gbwKMGa?editors=0012;Advanced JS - Closures - Invoke Immediately
+1030;Hívd meg azonnal;megoldas;https://codepen.io/borzos6-bl/pen/pogBgzW?editors=0012;https://codepen.io/vikingokft/pen/wBzXWrz?editors=0012;Advanced JS - Closures - Invoke Immediately - Solution
+1031;Hívd meg most, használd később;feladat;https://codepen.io/borzos6-bl/pen/LYGoLwJ?editors=0012;https://codepen.io/vikingokft/pen/bNwKeoB?editors=0012;Advanced JS - Closures - Use Later
+1033;Csomagold closure-be;feladat;https://codepen.io/borzos6-bl/pen/abdrVRV?editors=0012;https://codepen.io/vikingokft/pen/QwKxEqv?editors=0012;Advanced JS - Closures - Wrapped in a ~
+1033;Csomagold closure-be;megoldas;https://codepen.io/borzos6-bl/pen/zYrQPVP?editors=0012;https://codepen.io/vikingokft/pen/yyaEJzP?editors=0012;Advanced JS - Closures - Wrapped in a ~ - Solution
+1039;Modulok a gyakorlatban;feladat;https://codepen.io/borzos6-bl/pen/XWXLZJx?editors=0012;https://codepen.io/vikingokft/pen/raMKLGv?editors=0012;Advanced JS - Playground
+1040;Modulba csomagolva;demo;https://codepen.io/borzos6-bl/pen/pogmXpJ?editors=0012;https://codepen.io/vikingokft/pen/zxKaBEL?editors=0012;Advanced JS - Closures - Module template
+1040;Modulba csomagolva;feladat;https://codepen.io/borzos6-bl/pen/Yzwbovv?editors=0012;https://codepen.io/vikingokft/pen/EagRywe?editors=0012;Advanced JS - Closures - Wrapped In A Module
+1040;Modulba csomagolva;megoldas;https://codepen.io/borzos6-bl/pen/WNrBqKe?editors=0012;https://codepen.io/vikingokft/pen/azmKZLR?editors=0012;Advanced JS - Closures - Wrapped In A Module - Solution
+1046;A this rugalmassága;feladat;https://codepen.io/borzos6-bl/pen/Yzqyxvp?editors=0012;https://codepen.io/vikingokft/pen/JoRZKrw?editors=0012;Advanced JS - This - Adaptive ~
+1046;A this rugalmassága;feladat;https://codepen.io/borzos6-bl/pen/XWdmayv?editors=0012;https://codepen.io/vikingokft/pen/qEaKNPg?editors=0012;Advanced JS - This - Factory
+1050;Használd a this-t egy objektummetódusban;megoldas;https://codepen.io/borzos6-bl/pen/MWyeaLj?editors=0012;https://codepen.io/vikingokft/pen/LERrZza?editors=0012;Advanced JS - This - Using This in an Object Method - Solution
+1052;This problémák;feladat;https://codepen.io/borzos6-bl/pen/poybjNz?editors=0012;https://codepen.io/vikingokft/pen/ogzyLGO?editors=0012;Advanced JS - This - How it's _called_
+1052;This problémák;feladat;https://codepen.io/borzos6-bl/pen/ZEWObKb?editors=0012;https://codepen.io/vikingokft/pen/dPpKXVE?editors=0012;Advanced JS - This - A Problem
+1055;A strict mode használata;demo;https://codepen.io/borzos6-bl/pen/ZEWObKb?editors=0012;https://codepen.io/vikingokft/pen/dPpKXVE?editors=0012;Advanced JS - This - A Problem
+1055;A strict mode használata;megoldas;https://codepen.io/borzos6-bl/pen/qBZNbBY?editors=0012;https://codepen.io/vikingokft/pen/VYKdjMJ?editors=0012;Advanced JS - This - A Problem in Strict mode
+1057;A this használata eseménykezelőkben I.;feladat;https://codepen.io/borzos6-bl/pen/dyMXwgL?editors=0010;https://codepen.io/vikingokft/pen/vEXrKWB?editors=0010;Advanced JS - This - Using This in Event Handlers I
+1057;A this használata eseménykezelőkben I.;megoldas;https://codepen.io/borzos6-bl/pen/OJNXrQP;https://codepen.io/vikingokft/pen/myrKEqy;Advanced JS - This - Using This in Event Handlers I - Solution
+1058;A this használata eseménykezelőben II.;feladat;https://codepen.io/borzos6-bl/pen/MWyeLgQ?editors=1010;https://codepen.io/vikingokft/pen/GgjGqOJ?editors=1010;Advanced JS - This - Using This in Event Handlers II
+1058;A this használata eseménykezelőben II.;megoldas;https://codepen.io/borzos6-bl/pen/gOrMqaM?editors=1010;https://codepen.io/vikingokft/pen/gbwKMXa?editors=1010;Advanced JS - This - Using This in Event Handlers II - Solution
+1060;A this használata nyílfüggvényekben (arrow functions);feladat;https://codepen.io/borzos6-bl/pen/eYZzXzY?editors=0010;https://codepen.io/vikingokft/pen/PwGazOZ?editors=0010;Advanced JS - This - Using This in Arrow Functions 1
+1060;A this használata nyílfüggvényekben (arrow functions);feladat;https://codepen.io/borzos6-bl/pen/eYZzXzY?editors=0011;https://codepen.io/vikingokft/pen/PwGazOZ?editors=0011;Advanced JS - This - Using This in Arrow Functions 1
+1060;A this használata nyílfüggvényekben (arrow functions);demo;https://codepen.io/borzos6-bl/pen/LYNZaMO?editors=0011;https://codepen.io/vikingokft/pen/OPREXON?editors=0011;Advanced JS - This - Using This in Arrow Functions 2 - use strict
+1060;A this használata nyílfüggvényekben (arrow functions);feladat;https://codepen.io/borzos6-bl/pen/eYZzXzY?editors=0010;https://codepen.io/vikingokft/pen/PwGazOZ?editors=0010;Advanced JS - This - Using This in Arrow Functions 1
+1060;A this használata nyílfüggvényekben (arrow functions);megoldas;https://codepen.io/borzos6-bl/pen/XWdKQWR?editors=0011;https://codepen.io/vikingokft/pen/ByLVzmz?editors=0011;Advanced JS - This - Using This in Arrow Functions 3 - arrow function
+1060;A this használata nyílfüggvényekben (arrow functions);feladat;https://codepen.io/borzos6-bl/pen/XWdKQNa?editors=1111;https://codepen.io/vikingokft/pen/wBzXWPz?editors=1111;Advanced JS - This - Using This in Arrow Functions - Assignment
+1061;A this használata nyílfüggvényekben — Megoldás;megoldas;https://codepen.io/borzos6-bl/pen/VwajNrg?editors=0011;https://codepen.io/vikingokft/pen/bNwKeYB?editors=0011;Advanced JS - This - Using This in Arrow Functions - Solution
+1064;A call és apply használata;feladat;https://codepen.io/borzos6-bl/pen/XWdMKKx?editors=0012;https://codepen.io/vikingokft/pen/NPRzrwd?editors=0012;Advanced JS - HC This - call & apply
+1064;A call és apply használata;feladat;https://codepen.io/borzos6-bl/pen/yLOMVPg?editors=0012;https://codepen.io/vikingokft/pen/pvEKbdW?editors=0012;Advanced JS - HC This - call & apply II
+1064;A call és apply használata;megoldas;https://codepen.io/borzos6-bl/pen/dyMvOJQ?editors=0012;https://codepen.io/vikingokft/pen/yyaEJPP?editors=0012;Advanced JS - HC This - call & apply - solution
+1066;A bind használata;feladat;https://codepen.io/borzos6-bl/pen/WNwpRQj?editors=0011;https://codepen.io/vikingokft/pen/ZYpROax?editors=0011;Advanced JS - HC This - bind II
+1066;A bind használata;demo;https://codepen.io/borzos6-bl/pen/QWNpddq?editors=0010;https://codepen.io/vikingokft/pen/zxKaBPJ?editors=0010;Advanced JS - HC This - bind - Assignment
+1066;A bind használata;feladat;https://codepen.io/borzos6-bl/pen/QWNpddq?editors=0010;https://codepen.io/vikingokft/pen/zxKaBPJ?editors=0010;Advanced JS - HC This - bind - Assignment
+1066;A bind használata;megoldas;https://codepen.io/borzos6-bl/pen/LYNWxzP?editors=0010;https://codepen.io/vikingokft/pen/EagRybd?editors=0010;Advanced JS - HC This - bind - Assignment - Solution
+1068;A thisArg használata;feladat;https://codepen.io/borzos6-bl/pen/JjXWWKX?editors=0012;https://codepen.io/vikingokft/pen/azmKZVQ?editors=0012;Advanced JS - HC This - forEach
+1068;A thisArg használata;feladat;https://codepen.io/borzos6-bl/pen/LYNZaMO?editors=0011;https://codepen.io/vikingokft/pen/OPREXON?editors=0011;Advanced JS - This - Using This in Arrow Functions 2 - use strict
+1068;A thisArg használata;megoldas;https://codepen.io/borzos6-bl/pen/oNxZZmo?editors=0010;https://codepen.io/vikingokft/pen/qEaKNVv?editors=0010;Advanced JS - HC This - ThisArg - Solution
+1077;A gyártó függvények használata;feladat;https://codepen.io/borzos6-bl/pen/GRZGgoE?editors=0012;https://codepen.io/vikingokft/pen/LERrZOv?editors=0012;Advanced JS - Inheritance - Factory
+1077;A gyártó függvények használata;megoldas;https://codepen.io/borzos6-bl/pen/gOrKbax?editors=0012;https://codepen.io/vikingokft/pen/ogzyLoR?editors=0012;Advanced JS - Inheritance - Factory - Solution
+1080;A konstruktor függvények használata;feladat;https://codepen.io/borzos6-bl/pen/vYGrEoR?editors=0012;https://codepen.io/vikingokft/pen/dPpKXZB?editors=0012;Advanced JS - Inheritance - Constructor
+1080;A konstruktor függvények használata;megoldas;https://codepen.io/borzos6-bl/pen/MWyXYRY?editors=0012;https://codepen.io/vikingokft/pen/VYKdjro?editors=0012;Advanced JS - Inheritance - Constructor - Solution
+1082;Prototípus metódusok;feladat;https://codepen.io/borzos6-bl/pen/MWyXYRY?editors=0012;https://codepen.io/vikingokft/pen/VYKdjro?editors=0012;Advanced JS - Inheritance - Constructor - Solution
+1082;Prototípus metódusok;megoldas;https://codepen.io/borzos6-bl/pen/zYqLGBB?editors=0012;https://codepen.io/vikingokft/pen/YPGvWYK?editors=0012;Advanced JS - Inheritance - Prototype Method - Solution
+1085;Az öröklődés használata;feladat;https://codepen.io/borzos6-bl/pen/YzqjOyX?editors=0012;https://codepen.io/vikingokft/pen/RNGJRxN?editors=0012;Advanced JS - OOP - Inheritance
+1085;Az öröklődés használata;feladat;https://codepen.io/borzos6-bl/pen/OJNwrNW?editors=0012;https://codepen.io/vikingokft/pen/GgjGqyp?editors=0012;Advanced JS - Inheritance - Inheritance - Assignment
+1085;Az öröklődés használata;megoldas;https://codepen.io/borzos6-bl/pen/dyMjQxx?editors=0012;https://codepen.io/vikingokft/pen/gbwKMoP?editors=0012;Advanced JS - Inheritance - Inheritance - Solution
+1086;Class-ok használata;feladat;https://codepen.io/borzos6-bl/pen/vYGazJK?editors=0012;https://codepen.io/vikingokft/pen/OPREXzX?editors=0012;Advanced JS - OOP - Classes
+1086;Class-ok használata;feladat;https://codepen.io/borzos6-bl/pen/dyMjQxx?editors=0012;https://codepen.io/vikingokft/pen/gbwKMoP?editors=0012;Advanced JS - Inheritance - Inheritance - Solution
+1086;Class-ok használata;megoldas;https://codepen.io/borzos6-bl/pen/mdPjaEP?editors=0012;https://codepen.io/vikingokft/pen/wBzXWpo?editors=0012;Advanced JS - Inheritance - Class - Solution
+1095;A Module Pattern használata;feladat;https://codepen.io/borzos6-bl/pen/WNrBqKe;https://codepen.io/vikingokft/pen/azmKZLR;Advanced JS - Closures - Wrapped In A Module - Solution
+1095;A Module Pattern használata;demo;https://codepen.io/borzos6-bl/pen/pogmXpJ;https://codepen.io/vikingokft/pen/zxKaBEL;Advanced JS - Closures - Module template
+1097;A Constructor Pattern használata;feladat;https://codepen.io/borzos6-bl/pen/zYqLGBB;https://codepen.io/vikingokft/pen/YPGvWYK;Advanced JS - Inheritance - Prototype Method - Solution
+1097;A Constructor Pattern használata;demo;https://codepen.io/borzos6-bl/pen/WNwBVeX?editors=0012;https://codepen.io/vikingokft/pen/NPRzrXp?editors=0012;Advanced JS - Inheritance - Constructor - Template
+1099;Az ES6 classok használata;demo;https://codepen.io/borzos6-bl/pen/mdPjaEP;https://codepen.io/vikingokft/pen/wBzXWpo;Advanced JS - Inheritance - Class - Solution
+1099;Az ES6 classok használata;demo;https://codepen.io/borzos6-bl/pen/vYGazJK;https://codepen.io/vikingokft/pen/OPREXzX;Advanced JS - OOP - Classes
