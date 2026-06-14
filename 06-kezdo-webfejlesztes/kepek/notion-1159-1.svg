@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="arrowhead-faded" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <polygon points="0,0 10,5 0,10" fill="#94A3B8"/>
+    </marker>
+    <marker id="arrowhead-fetch" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse">
+      <polygon points="0,0 10,5 0,10" fill="#DC2626"/>
+    </marker>
+  </defs>
+
+  <rect width="1200" height="260" fill="#FFFFFF"/>
+
+  <text x="600" y="25" text-anchor="middle" font-size="14" font-weight="600" fill="#1F2937">A git fetch a Távoli Repositoryból a Helyi Repositoryba tölti le a commitokat</text>
+
+  <!-- Box 1: Working Directory (FADED - nem érintett) -->
+  <rect x="40" y="50" width="220" height="120" rx="12" fill="#FEF3C7" stroke="#D97706" stroke-width="2" opacity="0.4"/>
+  <text x="150" y="95" text-anchor="middle" font-size="17" font-weight="700" fill="#92400E" opacity="0.5">Working Directory</text>
+  <text x="150" y="120" text-anchor="middle" font-size="14" fill="#92400E" fill-opacity="0.5">Munkakönyvtár</text>
+  <text x="150" y="148" text-anchor="middle" font-size="11" fill="#DC2626" font-weight="600">⚠ nem frissül</text>
+
+  <!-- Arrow 1: git add (faded) -->
+  <text x="300" y="98" text-anchor="middle" font-size="13" font-weight="500" fill="#94A3B8">git add</text>
+  <line x1="270" y1="110" x2="328" y2="110" stroke="#94A3B8" stroke-width="2" marker-end="url(#arrowhead-faded)" opacity="0.5"/>
+
+  <!-- Box 2: Staging Area (FADED) -->
+  <rect x="340" y="50" width="220" height="120" rx="12" fill="#DBEAFE" stroke="#2563EB" stroke-width="2" opacity="0.4"/>
+  <text x="450" y="95" text-anchor="middle" font-size="17" font-weight="700" fill="#1E3A8A" opacity="0.5">Staging Area</text>
+  <text x="450" y="120" text-anchor="middle" font-size="14" fill="#1E3A8A" fill-opacity="0.5">Előkészítő terület</text>
+
+  <!-- Arrow 2: git commit (faded) -->
+  <text x="600" y="98" text-anchor="middle" font-size="13" font-weight="500" fill="#94A3B8">git commit</text>
+  <line x1="570" y1="110" x2="628" y2="110" stroke="#94A3B8" stroke-width="2" marker-end="url(#arrowhead-faded)" opacity="0.5"/>
+
+  <!-- Box 3: Helyi Repository (HIGHLIGHTED - cél) -->
+  <rect x="640" y="50" width="220" height="120" rx="12" fill="#DCFCE7" stroke="#059669" stroke-width="3"/>
+  <text x="750" y="95" text-anchor="middle" font-size="17" font-weight="700" fill="#065F46">Helyi Repository</text>
+  <text x="750" y="120" text-anchor="middle" font-size="14" fill="#065F46" fill-opacity="0.85">Local Repository</text>
+  <text x="750" y="148" text-anchor="middle" font-size="11" fill="#065F46" font-weight="600">✓ ide érkeznek a commitok</text>
+
+  <!-- Arrow 3: git fetch (HIGHLIGHTED, balra) -->
+  <line x1="932" y1="110" x2="862" y2="110" stroke="#DC2626" stroke-width="3" marker-end="url(#arrowhead-fetch)"/>
+  <text x="900" y="98" text-anchor="middle" font-size="14" font-weight="700" fill="#DC2626">git fetch</text>
+
+  <!-- Box 4: Távoli Repository (HIGHLIGHTED - forrás) -->
+  <rect x="940" y="50" width="220" height="120" rx="12" fill="#F3E8FF" stroke="#7C3AED" stroke-width="3"/>
+  <text x="1050" y="95" text-anchor="middle" font-size="17" font-weight="700" fill="#5B21B6">Távoli Repository</text>
+  <text x="1050" y="120" text-anchor="middle" font-size="14" fill="#5B21B6" fill-opacity="0.85">Remote Repository</text>
+  <text x="1050" y="148" text-anchor="middle" font-size="11" fill="#5B21B6" font-weight="600">a GitHub szerverén</text>
+
+  <!-- Footer note -->
+  <rect x="40" y="195" width="1120" height="45" rx="8" fill="#FEF2F2" stroke="#FCA5A5" stroke-width="1"/>
+  <text x="60" y="218" font-size="13" font-weight="600" fill="#991B1B">⚠ Fontos:</text>
+  <text x="130" y="218" font-size="13" fill="#7F1D1D">a git fetch csak a Helyi Repositoryba tölti le a commitokat — a Munkakönyvtár (a fájljaid a gépeden) nem frissül automatikusan.</text>
+  <text x="60" y="234" font-size="12" fill="#7F1D1D" fill-opacity="0.8">A Munkakönyvtárba beolvasztáshoz a git merge vagy git pull parancsra van szükség (lásd a következő leckéket).</text>
+
+</svg>
